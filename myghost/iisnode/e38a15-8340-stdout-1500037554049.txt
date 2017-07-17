@@ -1,0 +1,15 @@
+http://Ghost-Azureb5a1.azurewebsites.net
+Migrations: Up to date at version 004
+Ghost is running in production... 
+Your blog is now available on http://Ghost-Azureb5a1.azurewebsites.net 
+Ctrl+C to shut down
+194.81.195.24:56757 - - [14/Jul/2017:13:06:28 +0000] "GET /index.js/ HTTP/1.1" 404 - "https://www.google.co.uk/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:56760 - - [14/Jul/2017:13:06:28 +0000] "GET /index.js/ HTTP/1.1" 404 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:56753 - - [14/Jul/2017:13:06:28 +0000] "GET /index.js/ HTTP/1.1" 404 - "https://www.google.co.uk/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:56759 - - [14/Jul/2017:13:06:28 +0000] "GET /index.js/ HTTP/1.1" 404 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:56673 - - [14/Jul/2017:13:06:28 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:56756 - - [14/Jul/2017:13:06:28 +0000] "GET /index.js/ HTTP/1.1" 404 - "https://www.google.co.uk/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:56769 - - [14/Jul/2017:13:06:28 +0000] "GET /ghost/img/404-ghost.png?v=84176ab950 HTTP/1.1" 200 3681 "https://tristianobrien.info/index.js/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:56760 - - [14/Jul/2017:13:06:28 +0000] "GET /ghost/ghost.min.css?v=84176ab950 HTTP/1.1" 200 - "https://tristianobrien.info/index.js/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:56754 - - [14/Jul/2017:13:06:28 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:56760 - - [14/Jul/2017:13:06:28 +0000] "GET /favicon.ico HTTP/1.1" 200 - "https://tristianobrien.info/index.js/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"

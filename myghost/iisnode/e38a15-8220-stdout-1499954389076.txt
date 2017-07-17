@@ -1,0 +1,6 @@
+http://Ghost-Azureb5a1.azurewebsites.net
+Migrations: Up to date at version 004
+Ghost is running in production... 
+Your blog is now available on http://Ghost-Azureb5a1.azurewebsites.net 
+Ctrl+C to shut down
+194.81.195.24:53497 - - [13/Jul/2017:14:01:17 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5"

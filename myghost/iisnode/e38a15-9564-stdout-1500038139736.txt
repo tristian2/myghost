@@ -1,0 +1,16 @@
+https://Ghost-Azureb5a1.azurewebsites.net
+Migrations: Up to date at version 004
+Ghost is running in production... 
+Your blog is now available on https://Ghost-Azureb5a1.azurewebsites.net 
+Ctrl+C to shut down
+194.81.195.24:56976 - - [14/Jul/2017:13:16:11 +0000] "GET / HTTP/1.1" 301 140 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5"
+194.81.195.24:56982 - - [14/Jul/2017:13:16:11 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5"
+194.81.195.24:56982 - - [14/Jul/2017:13:16:11 +0000] "GET /assets/css/screen.css?v=ee29b10b3c HTTP/1.1" 200 - "https://ghost-azureb5a1.azurewebsites.net/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5"
+194.81.195.24:56985 - - [14/Jul/2017:13:16:11 +0000] "GET /assets/js/jquery.fitvids.js?v=ee29b10b3c HTTP/1.1" 200 - "https://ghost-azureb5a1.azurewebsites.net/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5"
+194.81.195.24:56984 - - [14/Jul/2017:13:16:11 +0000] "GET /assets/js/index.js?v=ee29b10b3c HTTP/1.1" 200 - "https://ghost-azureb5a1.azurewebsites.net/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5"
+194.81.195.24:56983 - - [14/Jul/2017:13:16:11 +0000] "GET /shared/ghost-url.min.js?v=ee29b10b3c HTTP/1.1" 200 778 "https://ghost-azureb5a1.azurewebsites.net/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5"
+194.81.195.24:56982 - - [14/Jul/2017:13:16:11 +0000] "GET /assets/fonts/casper-icons.woff?v=1 HTTP/1.1" 200 2580 "https://ghost-azureb5a1.azurewebsites.net/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5"
+194.81.195.24:56982 - - [14/Jul/2017:13:16:21 +0000] "GET /provisioning-onedrive-in-advance-for-new-azuread-users/ HTTP/1.1" 200 - "https://ghost-azureb5a1.azurewebsites.net/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5"
+108.168.151.16:22410 - - [14/Jul/2017:13:16:23 +0000] "GET /provisioning-onedrive-in-advance-for-new-azuread-users/ HTTP/1.1" 200 14860 "-" "Disqus/1.0"
+194.81.195.24:57017 - - [14/Jul/2017:13:16:25 +0000] "GET / HTTP/1.1" 301 140 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5"
+194.81.195.24:57018 - - [14/Jul/2017:13:16:25 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5"

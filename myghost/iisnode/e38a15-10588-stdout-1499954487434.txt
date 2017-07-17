@@ -1,0 +1,12 @@
+http://Ghost-Azureb5a1.azurewebsites.net
+Migrations: Up to date at version 004
+Ghost is running in production... 
+Your blog is now available on http://Ghost-Azureb5a1.azurewebsites.net 
+Ctrl+C to shut down
+194.81.195.24:53497 - - [13/Jul/2017:14:02:01 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5"
+194.81.195.24:53514 - - [13/Jul/2017:14:02:01 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5"
+194.81.195.24:53515 - - [13/Jul/2017:14:02:01 +0000] "GET /provisioning-onedrive-in-advance-for-new-azuread-users/ HTTP/1.1" 200 - "http://tristianobrien.info/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5"
+194.81.195.24:53516 - - [13/Jul/2017:14:02:01 +0000] "GET /shared/ghost-url.min.js?v=f4b0c31158 HTTP/1.1" 200 778 "http://tristianobrien.info/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5"
+194.81.195.24:53524 - - [13/Jul/2017:14:02:01 +0000] "GET /assets/js/jquery.fitvids.js?v=f4b0c31158 HTTP/1.1" 200 - "http://tristianobrien.info/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5"
+194.81.195.24:53515 - - [13/Jul/2017:14:02:01 +0000] "GET /assets/css/screen.css?v=f4b0c31158 HTTP/1.1" 200 - "http://tristianobrien.info/provisioning-onedrive-in-advance-for-new-azuread-users/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5"
+194.81.195.24:53525 - - [13/Jul/2017:14:02:01 +0000] "GET /assets/js/index.js?v=f4b0c31158 HTTP/1.1" 200 - "http://tristianobrien.info/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/603.2.5 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.5"

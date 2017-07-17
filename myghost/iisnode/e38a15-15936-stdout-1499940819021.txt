@@ -1,0 +1,19 @@
+http://Ghost-Azureb5a1.azurewebsites.net
+Migrations: Up to date at version 004
+Ghost is running in production... 
+Your blog is now available on http://Ghost-Azureb5a1.azurewebsites.net 
+Ctrl+C to shut down
+194.81.195.24:64616 - - [13/Jul/2017:10:14:14 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:64562 - - [13/Jul/2017:10:14:14 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:64608 - - [13/Jul/2017:10:14:14 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:64616 - - [13/Jul/2017:10:14:14 +0000] "GET /assets/css/screen.css?v=291172ba8b HTTP/1.1" 200 - "http://tristianobrien.info/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:64562 - - [13/Jul/2017:10:14:14 +0000] "GET /assets/css/screen.css?v=291172ba8b HTTP/1.1" 200 - "http://ghost-azureb5a1.azurewebsites.net/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:64636 - - [13/Jul/2017:10:14:14 +0000] "GET /shared/ghost-url.min.js?v=291172ba8b HTTP/1.1" 200 778 "http://ghost-azureb5a1.azurewebsites.net/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:64634 - - [13/Jul/2017:10:14:14 +0000] "GET /shared/ghost-url.min.js?v=291172ba8b HTTP/1.1" 200 778 "http://tristianobrien.info/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:64616 - - [13/Jul/2017:10:14:15 +0000] "GET /assets/js/jquery.fitvids.js?v=291172ba8b HTTP/1.1" 200 - "http://tristianobrien.info/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:64636 - - [13/Jul/2017:10:14:15 +0000] "GET /assets/js/jquery.fitvids.js?v=291172ba8b HTTP/1.1" 200 - "http://ghost-azureb5a1.azurewebsites.net/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:64562 - - [13/Jul/2017:10:14:15 +0000] "GET /assets/js/index.js?v=291172ba8b HTTP/1.1" 200 - "http://ghost-azureb5a1.azurewebsites.net/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:64634 - - [13/Jul/2017:10:14:15 +0000] "GET /assets/js/index.js?v=291172ba8b HTTP/1.1" 200 - "http://tristianobrien.info/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:64616 - - [13/Jul/2017:10:14:15 +0000] "GET /assets/fonts/casper-icons.woff?v=1 HTTP/1.1" 200 2580 "http://tristianobrien.info/assets/css/screen.css?v=291172ba8b" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:64637 - - [13/Jul/2017:10:14:15 +0000] "GET /content/images/2016/01/meSmall_400x400.jpg HTTP/1.1" 200 30411 "http://tristianobrien.info/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
+194.81.195.24:64634 - - [13/Jul/2017:10:14:15 +0000] "GET /content/images/2016/01/Brighton_West_Pier_20090214_sunset-1.jpg HTTP/1.1" 200 1322236 "http://tristianobrien.info/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36"
